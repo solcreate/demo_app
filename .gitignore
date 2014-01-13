@@ -13,6 +13,7 @@
 doc/
 *.swp
 *~
+/vendor/bundle
 .project
 .DS_Store
 .idea
